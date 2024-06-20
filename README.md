@@ -28,13 +28,15 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 ### Techincal Skills:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-C++-007396?style=flat&logo=C++)
 ![C++](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JS-336791?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat)
+![PHP](https://img.shields.io/badge/-PHP-217346?style=flat)
 ![DBMS](https://img.shields.io/badge/-DBMS-336791?style=flat)
 ![Data Structures and Algorithms](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-008080?style=flat)
 ![OOPs](https://img.shields.io/badge/-OOPs-007396?style=flat)
