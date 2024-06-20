@@ -3,9 +3,10 @@
 # Hey 👋, I'm Aryan Deep Saxena!
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-anujsingh7906-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anujsingh7906/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-anujsingh0308-black?style=flat&logo=github)](https://github.com/anujsingh0308/)
-[![Email Badge](https://img.shields.io/badge/Email-rajawatanuj890@gmail.com-red?style=flat&logo=gmail)](mailto:rajawatanuj890@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-aryan--deep--saxena--283500227-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-deep-saxena-283500227/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-AryanAKG-black?style=flat&logo=github)](https://github.com/AryanAKG/)
+[![Email Badge](https://img.shields.io/badge/Email-aryandeepsaxena123@gmail.com-red?style=flat&logo=gmail)](mailto:aryandeepsaxena123@gmail.com)
+
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=AryanAKG&color=blueviolet">
@@ -28,24 +29,11 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-2C2C2C?style=flat)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Data Science](https://img.shields.io/badge/-Data%20Science-1E88E5?style=flat)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-FF6F00?style=flat&logo=keras)
-![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat)
-![GenAI](https://img.shields.io/badge/-GenAI-FF69B4?style=flat&logo=ai&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-336791?style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat)
 ![DBMS](https://img.shields.io/badge/-DBMS-336791?style=flat)
 ![Data Structures and Algorithms](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-008080?style=flat)
