@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hey 👋, I'm Anuj Singh!
+# Hey 👋, I'm Aryan Deep Saxena!
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-anujsingh7906-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anujsingh7906/)
@@ -11,17 +11,16 @@
 <img src="https://komarev.com/ghpvc/?username=AryanAKG&color=blueviolet">
 <br />
 <br />
-Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems and am currently focused on advancing my skills through hands-on machine learning projects.
+Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems and am currently focused on advancing my skills through hands-on web development projects.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 ## About Me!
 
 * 👨🏽‍💻 I completed my B.Tech in Information Technology from Ajay Kumar Garg Engineering College, Ghaziabad.
-* 🌱 Currently advancing in Machine Learning and Data Science techniques.
-* 🤔 Intrigued by the applications of Artificial Intelligence and developing innovative solutions.
+* 🌱 Currently advancing in Web Development and Database Management System.
 * 💬 Always up for a chat about tech, AI, or anything under the sun!
-* 📫 Reach out via [email](mailto:rajawatanuj890@gmail.com) for collaboration or queries.
+* 📫 Reach out via [email](mailto:aryandeepsaxena123@gmail.com) for collaboration or queries.
 * 📝 Dive deeper into my journey through my [Curriculum Vitae](https://drive.google.com/file/d/1iSEWadbiqwYU8auvSjpvdp39WDut8Eim/view?usp=sharing).
 
 ## Skills
