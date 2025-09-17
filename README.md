@@ -12,14 +12,14 @@
 <img src="https://komarev.com/ghpvc/?username=AryanAKG&color=blueviolet">
 <br />
 <br />
-Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems and am currently focused on advancing my skills through hands-on web development projects.
+Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems and am currently focused on advancing my skills through hands-on mobile development projects.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 ## About Me!
 
 * 👨🏽‍💻 I completed my B.Tech in Information Technology from Ajay Kumar Garg Engineering College, Ghaziabad.
-* 🌱 Currently advancing in Web Development and Database Management System.
+* 🌱 Currently advancing in Mobile Application Development and Database Management System.
 * 💬 Always up for a chat about tech, AI, or anything under the sun!
 * 📫 Reach out via [email](mailto:aryandeepsaxena123@gmail.com) for collaboration or queries.
 * 📝 Dive deeper into my journey through my [Curriculum Vitae](https://drive.google.com/file/d/1iSEWadbiqwYU8auvSjpvdp39WDut8Eim/view?usp=sharing).
@@ -27,12 +27,12 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 ## Skills
 ### Techincal Skills:
 
+![JavaScript](https://img.shields.io/badge/-JS-336791?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-C++-007396?style=flat&logo=C++)
 ![C++](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JS-336791?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat)
