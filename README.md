@@ -25,21 +25,31 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 * 📝 Dive deeper into my journey through my [Curriculum Vitae](https://drive.google.com/file/d/1iSEWadbiqwYU8auvSjpvdp39WDut8Eim/view?usp=sharing).
 
 ## Skills
-### Techincal Skills:
 
-![JavaScript](https://img.shields.io/badge/-JS-336791?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-C++-007396?style=flat&logo=C++)
-![C++](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+### 🚀 Frontend
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![DBMS](https://img.shields.io/badge/-DBMS-336791?style=flat)
+
+### ⚙️ Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat)
-![PHP](https://img.shields.io/badge/-PHP-217346?style=flat)
-![DBMS](https://img.shields.io/badge/-DBMS-336791?style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Data Structures and Algorithms](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-008080?style=flat)
 ![OOPs](https://img.shields.io/badge/-OOPs-007396?style=flat)
+
 
 ### Soft Skills:
 
